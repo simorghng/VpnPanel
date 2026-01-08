@@ -1,0 +1,21 @@
+{
+  "source_url": "https://raw.githubusercontent.com/sinavm/SVM/main/subscriptions/xray/normal/mix",
+  "categories": [
+    { 
+      "tag": "همراه اول", 
+      "keywords": ["MCI", "Hamrah", "همراه", "First"] 
+    },
+    { 
+      "tag": "ایرانسل", 
+      "keywords": ["MTN", "Irancell", "ایرانسل"] 
+    },
+    { 
+      "tag": "مخابرات", 
+      "keywords": ["Mokhaberat", "TCI", "مخابرات", "WIFI"] 
+    },
+    { 
+      "tag": "آسیاتک", 
+      "keywords": ["Asiatech", "آسیاتک", "ADSL"] 
+    }
+  ]
+}
